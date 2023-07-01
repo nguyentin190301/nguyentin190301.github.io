@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tin Nguyen"
 title_separator          : "-"
 name                     : &name "Tin Nguyen"
-description              : &description "personal description"
+description              : &description "CS PhD student"
 url                      : https://nguyentin190301.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nguyentin190301.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Tin Nguyen"
   avatar           : "self_DC_June2023_crop.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "CS PhD Student interested in Law-informed AI Fairness"
   location         : "College Park, MD"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/nguyentin190301"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tin-nguyen-b0b65b188/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "legally_tin"
   vine             :
   weibo            :
   xing             :

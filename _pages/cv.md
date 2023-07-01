@@ -9,51 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+Please find as linked my detailed [CV](https://drive.google.com/drive/folders/1yYDJDFANZy4B9QGnmdLOm8yanC8_G-c7?usp=sharing).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Maryland, College Park, USA. 2022-2027 (expected)
+* B.Sc. in Physics, Jacobs University Bremen, Germany. 2019-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Machine Learning Research Intern - Trustible
+#  * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: Legal NLP Research Intern - Max Planck Institute for Research on Collective Goods
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Summer 2021: Summer Student Fellow - Woods Hole Oceanographic Institution
+
+* Summer 2020: Legal Intern (Patent Law) - Rouse Legal Vietnam
+
+
