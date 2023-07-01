@@ -19,9 +19,6 @@ Education
 Work experience
 ======
 * Summer 2023: Machine Learning Research Intern - Trustible
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
 
 * Summer 2022: Legal NLP Research Intern - Max Planck Institute for Research on Collective Goods
 
