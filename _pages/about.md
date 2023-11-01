@@ -14,7 +14,7 @@ I am a second-year Computer Science PhD student at the University of Maryland, C
 
 ## Funding and Awards
 1. DOJ/NIJ Graduate Research Fellowship 2023 ($166,500 over 3 years; Topic: [Operationalizing the Individual versus Group Fairness Dichotomy for Recidivism Risk Assessment: US Legal Challenges and Technical Proposals](https://nij.ojp.gov/funding/awards/15pnij-23-gg-01932-ress))
-2. Funded Proposal: Effort-aware Fairness (approx. $78,500 for one year; project conceptualized and proposal drafted by me, then refined and submitted with Donald Braman, Furong Huang and my PhD Advisors for TRAILS funding)
+2. Funded Proposal: [Effort-aware Fairness](https://drive.google.com/file/d/1V29EJNVbJrEGYmTzrZbyqqEUzMaIrBz3/view?usp=sharing) (approx. $78,500 for one year; project conceptualized and proposal drafted by me, then refined and submitted with [Donald Braman](https://www.law.gwu.edu/donald-braman), [Furong Huang](https://furong-huang.com/) and my PhD Advisors for [TRAILS](https://obj.umiacs.umd.edu/trails/request4proposalsTRAILS.pdf) funding)
 3. Dean’s Fellowship ($5000 over 2 years)
 
 ## Publications
