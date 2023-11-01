@@ -12,9 +12,10 @@ I am a second-year Computer Science PhD student at the University of Maryland, C
 1. How to identify the current stances and knowledge gaps of heterogeneous legal sources that regulate a. AI in general, and b. the fairness of AI-involved decision-making processes in particular?
 2. How to design new concepts, technical experiments, and/or human studies to address those law-informed AI fairness knowledge gaps while minimizing disruptiveness to existing legal principles?
 
-## Awards
+## Funding and Awards
 1. DOJ/NIJ Graduate Research Fellowship 2023 ($166,500 over 3 years; Topic: [Operationalizing the Individual versus Group Fairness Dichotomy for Recidivism Risk Assessment: US Legal Challenges and Technical Proposals](https://nij.ojp.gov/funding/awards/15pnij-23-gg-01932-ress))
-2. Dean’s Fellowship ($5000 over 2 years)
+2. Funded Proposal: Effort-aware Fairness (approx. $78,500 for one year; project conceptualized and proposal drafted by me, then refined and submitted with Donald Braman, Furong Huang and my PhD Advisors for TRAILS funding)
+3. Dean’s Fellowship ($5000 over 2 years)
 
 ## Publications
 1. **Tin Nguyen**, Jiannan Xu, Aayushi Roy, Hal Daumé III and Marine Carpuat. 
