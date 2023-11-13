@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find as linked my detailed [CV](https://drive.google.com/drive/folders/1yYDJDFANZy4B9QGnmdLOm8yanC8_G-c7?usp=sharing).
+Please find as linked my detailed [Resume](https://drive.google.com/drive/folders/1yYDJDFANZy4B9QGnmdLOm8yanC8_G-c7?usp=sharing).
 
 Education
 ======
