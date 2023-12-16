@@ -20,5 +20,5 @@ I am a second-year Computer Science PhD student at the University of Maryland, C
 ## Publications
 1. **Tin Nguyen**, Jiannan Xu, Aayushi Roy, Hal Daumé III and Marine Carpuat. 
 [Towards Conceptualization of “Fair Explanation”: Disparate Impacts of anti-Asian Hate Speech Explanations on Content Moderators](https://aclanthology.org/2023.emnlp-main.602/). [EMNLP 2023](https://2023.emnlp.org/). 6-minute, pre-recorded [presentation](https://drive.google.com/file/d/174PPUTFtFtcHVFOW7mVOoGFzJm7tj8u9/view?usp=sharing) and [poster](https://drive.google.com/file/d/1LzW-KbDUsYDvvhi-3SCKkyssKrWTciat/view?usp=sharing).
-2. Navita Goyal, Connor Baumler, **Tin Nguyen** and Hal Daumé III. [The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://arxiv.org/abs/2310.08617). Accepted at [CHI TRAIT 2023 Workshop](https://chi-trait.github.io/#/). Under review at [IUI 2024](https://iui.acm.org/2024/).
+2. Navita Goyal, Connor Baumler, **Tin Nguyen** and Hal Daumé III. [The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://arxiv.org/abs/2310.08617). Accepted at [IUI 2024](https://iui.acm.org/2024/).
 
