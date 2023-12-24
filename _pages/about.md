@@ -14,7 +14,7 @@ I am a second-year Computer Science PhD student at the University of Maryland, C
 
 ## Funding and Awards
 1. [DOJ/NIJ Graduate Research Fellowship 2023](https://nij.ojp.gov/graduate-research-fellowship-program-past-and-present-fellows) ($166,500 over 3 years; topic: [Operationalizing the Individual versus Group Fairness Dichotomy for Recidivism Risk Assessment: US Legal Challenges and Technical Proposals](https://www.researchgate.net/publication/376268389_Operationalizing_the_Individual_v_Group_Fairness_Dichotomy_for_Recidivism_Risk_Assessment_US_Legal_Challenges_and_Technical_Proposals))
-2. Funded Proposal: [Effort-aware Fairness](https://www.researchgate.net/publication/375120562_Effort-aware_Fairness_Measures_and_Mitigations_in_AI-assisted_Decision_Making#fullTextFileContent) (approx. $78,500 for one year; project conceptualized and proposal drafted by me, then refined and submitted with [Donald Braman](https://www.law.gwu.edu/donald-braman), [Furong Huang](https://furong-huang.com/) and my PhD Advisors to [NIST-NSF TRAILS](https://obj.umiacs.umd.edu/trails/request4proposalsTRAILS.pdf))
+2. Funded Proposal: [Effort-aware Fairness](https://www.researchgate.net/publication/375120562_Effort-aware_Fairness_Measures_and_Mitigations_in_AI-assisted_Decision_Making#fullTextFileContent) (approx. $88,500 for one year; project conceptualized and proposal drafted by me, then refined and submitted with [Donald Braman](https://www.law.gwu.edu/donald-braman), [Furong Huang](https://furong-huang.com/) and my PhD Advisors to [NIST-NSF TRAILS](https://obj.umiacs.umd.edu/trails/request4proposalsTRAILS.pdf))
 3. Dean’s Fellowship ($5000 over 2 years)
 
 ## Publications
