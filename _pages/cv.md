@@ -13,7 +13,7 @@ Please find as linked my detailed [Resume](https://drive.google.com/drive/folder
 
 Education
 ======
-* Ph.D. in Computer Science, University of Maryland, College Park, USA. 2022-2027 (expected)
+* Ph.D. in Computer Science, University of Maryland, College Park, USA. 2022-present
 * B.Sc. in Physics, Jacobs University Bremen, Germany. 2019-2022
 
 Work experience
