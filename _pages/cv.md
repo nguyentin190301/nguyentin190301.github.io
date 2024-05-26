@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* Summer 2024: Machine Learning Research Intern - Luminos
+
 * Summer 2023: Machine Learning Research Intern - Trustible
 
 * Summer 2022: Legal NLP Research Intern - Max Planck Institute for Research on Collective Goods
