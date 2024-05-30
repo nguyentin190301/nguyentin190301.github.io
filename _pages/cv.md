@@ -13,9 +13,9 @@ Please find as linked my detailed [Resume](https://drive.google.com/drive/folder
 
 Education
 ======
-* Ph.D. in Computer Science, University of Maryland, College Park, USA. 2022-present
-* M.Sc. in Computer Science, University of Maryland, College Park, USA. June 2024 (once finished grad coursework)
-* B.Sc. in Physics, Jacobs University Bremen, Germany. 2019-2022
+* Ph.D. in Computer Science, University of Maryland, College Park, USA. 08/2022 - present
+* M.Sc. in Computer Science, University of Maryland, College Park, USA. 08/2022 - 06/2024 (once finished grad coursework)
+* B.Sc. in Physics, Jacobs University Bremen, Germany. 09/2019 - 06/2022
 
 Work experience
 ======
