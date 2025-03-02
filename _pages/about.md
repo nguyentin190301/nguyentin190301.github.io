@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Computer Science PhD student at the University of Maryland, College Park (UMD), fortunately advised by [Prof. Hal Daumé III](http://users.umiacs.umd.edu/~hal/) and [Prof. Zubin Jelveh](https://zjelveh.github.io/), who care and foster conceptual creativity. My research interests include AI fairness, trustworthiness, natural language processing (NLP), machine learning (ML), and law. My currently most focused research direction is law-informed fairness, including but not limited to two broad questions:
-1. How to identify the current stances and knowledge gaps of heterogeneous legal sources that regulate a. AI in general, and b. the fairness of AI-involved decision-making processes in particular?
-2. How to design new concepts, technical experiments, and/or human studies to address those law-informed AI fairness knowledge gaps while minimizing disruptiveness to existing legal principles?
+I am a third-year Computer Science PhD student at the University of Maryland, College Park (UMD), fortunately advised by [Prof. Hal Daumé III](http://users.umiacs.umd.edu/~hal/) and [Prof. Zubin Jelveh](https://zjelveh.github.io/), who care and foster conceptual creativity. The broad theme of my PhD research is incorporating insights from law and moral philosophy to audit for and enable fairer attribution of responsibility in collaborative human-AI systems. The first category of ``responsibility’' is "burden", e.g., 1/ decision subjects’ burden of bearing unfavorable and potentially erroneous decisions and 2/ decision makers’ burden of potentially suffering more when AI assistance is given (compared to when they make decisions alone). The second category of ``responsibility’' is "blame", e.g., when a human-AI system decides or generates something wrong, how to fairly determine whom to blame?
+
+Regarding research methods, through PhD and internship work, I am interested in three distinct but complementary methods:
+1/ formulating new arguments based on primary legal sources (Law);
+2/ designing human subject experiments and statistical analyses (HCI);
+3/ scraping online text, building classification models, fine-tuning language models against harmful content and measuring the quality of such fine-tuning (technical NLP/ML).
 
 ## Funding and Awards
 1. [DOJ/NIJ Graduate Research Fellowship 2023](https://nij.ojp.gov/graduate-research-fellowship-program-past-and-present-fellows) ($166,500 over 3 years; topic: [Operationalizing the Individual versus Group Fairness Dichotomy for Recidivism Risk Assessment: US Legal Challenges and Technical Proposals](https://www.researchgate.net/publication/376268389_Operationalizing_the_Individual_v_Group_Fairness_Dichotomy_for_Recidivism_Risk_Assessment_US_Legal_Challenges_and_Technical_Proposals))
