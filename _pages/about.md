@@ -12,7 +12,7 @@ I am a third-year Computer Science PhD student at the University of Maryland, Co
 
 Regarding research methods, through PhD and internship work, I have got experience in and been further refining three distinct but complementary methods: \\
 1/ formulating new arguments based on primary legal sources (Law); \\
-2/ designing human subject experiments and statistical analyses (HCI); \\
+2/ designing human subject experiments and statistical analyses of their results (HCI); \\
 3/ scraping online text, building classification models, fine-tuning language models against harmful content and measuring the quality of such fine-tuning (technical NLP/ML).
 
 ## Funding and Awards
