@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year Computer Science PhD student at the University of Maryland, College Park (UMD), fortunately advised by [Prof. Hal Daumé III](http://users.umiacs.umd.edu/~hal/) and [Prof. Zubin Jelveh](https://zjelveh.github.io/), who care and foster conceptual creativity. The broad theme of my PhD research is incorporating insights from law and moral philosophy to audit for and enable fairer attribution of responsibility in collaborative human-AI systems. The first category of "responsibility’' is "burden", e.g., 1/ decision subjects’ burden of bearing unfavorable and potentially erroneous decisions and 2/ decision makers’ burden of potentially suffering more when AI assistance is given (compared to when they make decisions alone). The second category of "responsibility’' is "blame", e.g., when a human-AI system decides or generates something wrong, how to fairly determine whom to blame?
 
-Regarding research methods, through PhD and internship work, I am interested in three distinct but complementary methods: \\
+Regarding research methods, through PhD and internship work, I have got experience in and been further refining three distinct but complementary methods: \\
 1/ formulating new arguments based on primary legal sources (Law); \\
 2/ designing human subject experiments and statistical analyses (HCI); \\
 3/ scraping online text, building classification models, fine-tuning language models against harmful content and measuring the quality of such fine-tuning (technical NLP/ML).
