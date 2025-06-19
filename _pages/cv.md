@@ -19,6 +19,8 @@ Education
 
 Work experience
 ======
+* Summer 2025: AI/ML Research Intern - Navan
+
 * Summer 2024: Machine Learning Research Intern - Luminos
 
 * Summer 2023: Machine Learning Research Intern - Trustible
