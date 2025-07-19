@@ -29,3 +29,6 @@ III. Dean’s Fellowship ($5000 over 2 years)
 3. **Tin Nguyen**, Jiannan Xu, Phuong-Anh Nguyen-Le, Jonathan Lazar, Donald Braman, Hal Daumé III and Zubin Jelveh. [Which Demographic Features Are Relevant for Individual Fairness Evaluation of U.S. Recidivism Risk Assessment Tools](https://arxiv.org/abs/2505.09868)? Accepted at [ICAIL 2025](https://sites.northwestern.edu/icail2025/). 
 4. Navita Goyal, Connor Baumler, **Tin Nguyen** and Hal Daumé III. [The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://dl.acm.org/doi/10.1145/3640543.3645210). [IUI 2024](https://iui.acm.org/2024/).
 
+## Service
+1. Elected Member at UMD Senate and UMD Senate Executive Committee (Aug 2024 - May 2026)
+2. Elected Member at UMD CS Department Council (Aug 2023 - May 2024)
