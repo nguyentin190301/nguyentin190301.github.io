@@ -30,5 +30,5 @@ III. Dean’s Fellowship ($5000 over 2 years)
 4. Navita Goyal, Connor Baumler, **Tin Nguyen** and Hal Daumé III. [The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://dl.acm.org/doi/10.1145/3640543.3645210). [IUI 2024](https://iui.acm.org/2024/).
 
 ## Service
-1. Elected Member at UMD Senate and UMD Senate Executive Committee (Aug 2024 - May 2026)
-2. Elected Member at UMD CS Department Council (Aug 2023 - May 2024)
+1. Elected Member of [UMD Senate Executive Committee](https://www.senate.umd.edu/committees/senate-executive-committee) (Aug 2024 - May 2026)
+2. Elected Member of UMD CS Department Council (Aug 2023 - May 2024)
