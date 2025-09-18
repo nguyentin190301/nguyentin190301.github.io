@@ -15,6 +15,8 @@ Regarding research methods, through PhD and internship work, I have got experien
 2/ designing human subject experiments and statistical analyses of their results (HCI); \\
 3/ scraping online text, building classification models, fine-tuning language models against harmful content and measuring the quality of such fine-tuning (technical NLP/ML).
 
+<p id="myP" style="color:red;">I am on the job market this year!</p>
+
 ## Funding and Awards
 I. [DOJ/NIJ Graduate Research Fellowship 2023](https://nij.ojp.gov/graduate-research-fellowship-program-past-and-present-fellows) ($166,500 over 3 years; topic: [Operationalizing the Individual versus Group Fairness Dichotomy for Recidivism Risk Assessment: US Legal Challenges and Technical Proposals](https://www.researchgate.net/publication/376268389_Operationalizing_the_Individual_v_Group_Fairness_Dichotomy_for_Recidivism_Risk_Assessment_US_Legal_Challenges_and_Technical_Proposals))
 
