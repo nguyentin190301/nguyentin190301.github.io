@@ -17,7 +17,7 @@ Regarding research methods, through PhD and internship work, I have got experien
 
 <span style="color:red">
 I am on the industry job market this year! I look for a full-time, U.S.-based AI x Law position (starting late May or late August, 2026 through OPT) such as: \\
-1/ Technology Specialist at IP/patent law firms \\
+1/ Technology Specialist at an IP/patent law firm \\
 2/ Research Scientist/Research Engineer at tech companies with a meaningful policy/legal component
   
 </span>
