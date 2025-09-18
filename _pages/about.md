@@ -16,7 +16,10 @@ Regarding research methods, through PhD and internship work, I have got experien
 3/ scraping online text, building classification models, fine-tuning language models against harmful content and measuring the quality of such fine-tuning (technical NLP/ML).
 
 <span style="color:red">
-I am on the job market!
+I am on the industry job market this year! I look for a full-time, U.S.-based AI x Law position (starting late May or late August, 2026 through OPT) such as: \\
+Technology Specialist at IP/patent law firms \\
+Research Scientist/Research Engineer at tech companies with a meaningful policy/legal focus \\
+  
 </span>
 
 ## Funding and Awards
