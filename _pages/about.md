@@ -16,7 +16,7 @@ Regarding research methods, through PhD and internship work, I have got experien
 3/ scraping online text, building classification models, fine-tuning language models against harmful content and measuring the quality of such fine-tuning (technical NLP/ML).
 
 <span style="color:red">
-I am on the industry job market (expected PhD graduation: August 2026)! I look for a summer internship or a full-time AI x Law position (starting late May or late August, 2026) such as: \\
+I am on the job market (expected PhD graduation: August 2026)! I look for a summer internship or a full-time AI x Law position (starting late May or late August, 2026) such as: \\
 1/ Technology Specialist at an IP/AI-specialized law firm that has historically supported their STEM PhD holders to later acquire a J.D. \\
 2/ Research Scientist/Research Engineer at a tech company with a policy/legal component
 </span>
